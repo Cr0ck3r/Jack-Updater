@@ -1,2 +1,2 @@
 # Jack-Updater
-Jack Discoerd bot updater Windows Version
+Jack Discord bot updater Windows Version
